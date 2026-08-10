@@ -1,41 +1,27 @@
-<h1 align="center">
-	<div align="center" width="100" dir="auto">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&width=550&lines=Welcome+to+Christopher+Cruz's+Github" alt="Typing SVG" /></a>
-</div>
+## About Me
 
-<div align="center" width="50" dir="auto">
-<!-- <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="/Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="/Skills_Animation_White.gif" style="visibility: visible; max-width: 100%;">
-</picture>
-</themed-picture> -->
-<div class="markdown-heading" dir="auto">
-</h1>
+```yaml
+name: Christopher Cruz
+role: Full-Stack & Mobile Developer
+location: United States
+focus: Computer Science & Software Engineering
+stack:
+  mobile:   [Flutter/Dart, React Native + Expo]
+  web:      [React, Next.js, Node.js/Express, FastAPI]
+  database: [Supabase, Firebase, MongoDB, MySQL, PostgreSQL, SQLite]
+  no-code:  [Framer]
+  extras:   [TypeScript, Socket.io, WebRTC, Agora RTC, Stripe, JWT, Zustand]
+interests: [Mobile Dev, Web Apps, Real-Time Systems, SaaS, AI/ML, IoT]
+current:
+  - GetFit         → Fitness & wellness app w/ trainers, Agora video calls (Flutter + Supabase) [Building]
+  - ConnectHub     → Full-Stack Social Media Platform (React + Node.js + Supabase) [Done]
+  - WorldCup26App  → React Native prediction app (Expo Router + Supabase) [Maintaining]
+  - StationHub     → Travel & Booking Platform (React Native + FastAPI + React/Vite Dashboard) [Maintaining]
+  - AIToolsHub     → No-Code AI Tools Directory built in Framer (CMS-driven) [Building]
+motto: "Ship real products. Learn by building."
+```
 
-<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
-</p>
- <!-- <p align="center">
-  <a href="https://github.com/senior-dev-1019"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Blockchain%20developer;7%2B%20years%20of%20coding%20experience;I am always working for customers&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p> -->
-	
-## <picture><img src = "https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/about_me.gif?" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Right_Side.gif?raw=true" width = 250px></picture>
-
-
-- 🔭 I am currently running my own bussiness as a senior mobile developer with over 10 years of extensive experience
-
-- 👨‍💻 I have experience being Mobile Developer, Project Manager and Tech Lead
-
-- 💬 Ask me about **Flutter, Python, PHP, SWIFT, Kotlin and NestJs**
-
-- 📫 How to reach me **christophercruz91815@gmail.com**
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## ⚡ Technologies
 <table align="center">
