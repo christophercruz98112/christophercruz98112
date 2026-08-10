@@ -2,7 +2,7 @@
 
 ```yaml
 name: Christopher Cruz
-role: Full-Stack & Mobile Developer
+role: Hacker & Mobile Developer
 location: United States
 focus: Computer Science & Software Engineering
 stack:
@@ -14,7 +14,7 @@ stack:
 interests: [Mobile Dev, Web Apps, Real-Time Systems, SaaS, AI/ML, IoT]
 current:
   - GetFit         → Fitness & wellness app w/ trainers, Agora video calls (Flutter + Supabase) [Building]
-  - ConnectHub     → Full-Stack Social Media Platform (React + Node.js + Supabase) [Done]
+  - ConnectHub     → Hacker Social Media Platform (React + Node.js + Supabase) [Done]
   - WorldCup26App  → React Native prediction app (Expo Router + Supabase) [Maintaining]
   - StationHub     → Travel & Booking Platform (React Native + FastAPI + React/Vite Dashboard) [Maintaining]
   - AIToolsHub     → No-Code AI Tools Directory built in Framer (CMS-driven) [Building]
