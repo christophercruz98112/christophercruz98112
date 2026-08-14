@@ -1,27 +1,20 @@
-## ⚡ About Me
+<div align="center">
 
-```yaml
-name: Christopher Cruz
-role: Hacker & Mobile Developer
-location: United States
-focus: Computer Science & Software Engineering
-stack:
-  mobile:   [Flutter/Dart, React Native + Expo]
-  web:      [React, Next.js, Node.js/Express, FastAPI]
-  database: [Supabase, Firebase, MongoDB, MySQL, PostgreSQL, SQLite]
-  no-code:  [Framer]
-  extras:   [TypeScript, Socket.io, WebRTC, Agora RTC, Stripe, JWT, Zustand]
-interests: [Mobile Dev, Web Apps, Real-Time Systems, SaaS, AI/ML, IoT]
-current:
-  - GetFit         → Fitness & wellness app w/ trainers, Agora video calls (Flutter + Supabase) [Building]
-  - ConnectHub     → Hacker Social Media Platform (React + Node.js + Supabase) [Done]
-  - WorldCup26App  → React Native prediction app (Expo Router + Supabase) [Maintaining]
-  - StationHub     → Travel & Booking Platform (React Native + FastAPI + React/Vite Dashboard) [Maintaining]
-  - AIToolsHub     → No-Code AI Tools Directory built in Framer (CMS-driven) [Building]
-motto: "Ship real products. Learn by building."
+<img src="./hero.svg" alt="CORE — Hacker && Mobile Developer" width="100%" />
+
+</div>
+
+```ts
+const CORE = {
+  role:     "Hacker && Mobile Developer",
+  location: "WorldWide",
+  stack:    ["TypeScript", "Python", "Next.js", "Node", "React Native", "Django", "Cybersecurity"],
+  loves:    ["Vibe Coding", "Agent Architecture", "Developer Tools", "Open Source"],
+  building: "AI-native products that turn intent → shipped software",
+  motto:    "Code less, vibe more. Let agents do the boilerplate.",
+};
 ```
 
-## ⚡ Technologies
 <table align="center">
   <tr>
     <td align="center" width="90">
