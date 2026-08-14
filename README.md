@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./hero.svg" alt="CORE — Hacker && Mobile Developer" width="100%" />
+<div align="center" width="50" dir="auto">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Welcome+to+Core's+corner" alt="Typing SVG" /></a>
+</div>
 
 </div>
 
