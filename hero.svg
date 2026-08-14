@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Lingyi Chen — AI Full-Stack Engineer">
+  <defs>
+    <!-- Layered background gradients -->
+    <radialGradient id="bgPurple" cx="20%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#1d0d3d" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0e1a" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="bgCyan" cx="92%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#0d2a3a" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0a0e1a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgAmber" cx="75%" cy="92%" r="35%">
+      <stop offset="0%" stop-color="#3a1f0a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0a0e1a" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" x="0" y="0" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.18"/>
+    </pattern>
+    <pattern id="gridSmall" x="0" y="0" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0 H0 V12" fill="none" stroke="#00F0FF" stroke-width="0.25" opacity="0.08"/>
+    </pattern>
+
+    <!-- Title gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#C4B5FD"/>
+      <stop offset="35%" stop-color="#7C3AED"/>
+      <stop offset="70%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+
+    <!-- Subtle glow filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Strong glow for title -->
+    <filter id="strongGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="b1"/>
+      <feGaussianBlur stdDeviation="2" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background layers -->
+  <rect width="1200" height="340" fill="#0a0e1a"/>
+  <rect width="1200" height="340" fill="url(#bgPurple)"/>
+  <rect width="1200" height="340" fill="url(#bgCyan)"/>
+  <rect width="1200" height="340" fill="url(#bgAmber)"/>
+  <rect width="1200" height="340" fill="url(#gridSmall)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+
+  <!-- Scan lines (very subtle) -->
+  <g opacity="0.05">
+    <line x1="0" y1="60"  x2="1200" y2="60"  stroke="#00F0FF" stroke-width="1"/>
+    <line x1="0" y1="170" x2="1200" y2="170" stroke="#00F0FF" stroke-width="1"/>
+    <line x1="0" y1="280" x2="1200" y2="280" stroke="#00F0FF" stroke-width="1"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <g stroke="#00F0FF" stroke-width="2" fill="none" filter="url(#glow)" stroke-linecap="round">
+    <path d="M24 24 L24 56 M24 24 L56 24"/>
+    <path d="M1176 24 L1176 56 M1176 24 L1144 24"/>
+    <path d="M24 316 L24 284 M24 316 L56 316"/>
+    <path d="M1176 316 L1176 284 M1176 316 L1144 316"/>
+  </g>
+
+  <!-- Top status bar -->
+  <g font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace">
+    <circle cx="50" cy="60" r="4" fill="#10B981" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="62" y="64" font-size="13" fill="#10B981" opacity="0.85" letter-spacing="1">// SYSTEM.ONLINE</text>
+    <text x="200" y="64" font-size="13" fill="#7C3AED" opacity="0.55" letter-spacing="1">·</text>
+    <text x="216" y="64" font-size="13" fill="#A78BFA" opacity="0.6" letter-spacing="1">build: vibe-coding/v4</text>
+
+    <text x="1150" y="64" font-size="13" fill="#F59E0B" opacity="0.7" letter-spacing="1" text-anchor="end">CHENGDU.CN · UTC+8</text>
+    <circle cx="1158" cy="60" r="3" fill="#F59E0B" filter="url(#glow)"/>
+  </g>
+
+  <!-- Vertical accent bar on the left -->
+  <g>
+    <rect x="48" y="100" width="3" height="170" fill="url(#titleGrad)" opacity="0.6" filter="url(#glow)"/>
+  </g>
+
+  <!-- Main title -->
+  <text x="72" y="180"
+        font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace"
+        font-weight="900"
+        font-size="84"
+        fill="url(#titleGrad)"
+        filter="url(#strongGlow)"
+        letter-spacing="-1">LINGYI CHEN</text>
+
+  <!-- Subtitle row -->
+  <g font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace">
+    <text x="74" y="218" font-size="18" fill="#E9D5FF" letter-spacing="0.5">
+      <tspan fill="#00F0FF">▸</tspan>
+      <tspan dx="6"> AI Full-Stack Engineer </tspan>
+      <tspan fill="#7C3AED">×</tspan>
+      <tspan dx="2"> Vibe Coding Practitioner</tspan>
+    </text>
+    <text x="74" y="244" font-size="13" fill="#94A3B8" opacity="0.85" letter-spacing="0.3">
+      Building next-gen tools via agent architecture · Code less, vibe more.
+    </text>
+  </g>
+
+  <!-- Tag pills (bottom-left) -->
+  <g transform="translate(72,272)" font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace" font-size="11" letter-spacing="1">
+    <g>
+      <rect x="0" y="0" width="78" height="26" rx="13" fill="rgba(124,58,237,0.12)" stroke="#7C3AED" stroke-width="1"/>
+      <text x="39" y="17" fill="#C4B5FD" text-anchor="middle" font-weight="700">[ AI ]</text>
+    </g>
+    <g transform="translate(88,0)">
+      <rect x="0" y="0" width="96" height="26" rx="13" fill="rgba(124,58,237,0.12)" stroke="#7C3AED" stroke-width="1"/>
+      <text x="48" y="17" fill="#C4B5FD" text-anchor="middle" font-weight="700">[ AGENT ]</text>
+    </g>
+    <g transform="translate(194,0)">
+      <rect x="0" y="0" width="138" height="26" rx="13" fill="rgba(0,240,255,0.10)" stroke="#00F0FF" stroke-width="1"/>
+      <text x="69" y="17" fill="#7DD3FC" text-anchor="middle" font-weight="700">[ CLAUDE.CODE ]</text>
+    </g>
+    <g transform="translate(342,0)">
+      <rect x="0" y="0" width="80" height="26" rx="13" fill="rgba(0,240,255,0.10)" stroke="#00F0FF" stroke-width="1"/>
+      <text x="40" y="17" fill="#7DD3FC" text-anchor="middle" font-weight="700">[ MCP ]</text>
+    </g>
+    <g transform="translate(432,0)">
+      <rect x="0" y="0" width="120" height="26" rx="13" fill="rgba(245,158,11,0.10)" stroke="#F59E0B" stroke-width="1"/>
+      <text x="60" y="17" fill="#FCD34D" text-anchor="middle" font-weight="700">[ LANGGRAPH ]</text>
+    </g>
+    <g transform="translate(562,0)">
+      <rect x="0" y="0" width="118" height="26" rx="13" fill="rgba(245,158,11,0.10)" stroke="#F59E0B" stroke-width="1"/>
+      <text x="59" y="17" fill="#FCD34D" text-anchor="middle" font-weight="700">[ VIBE.CODE ]</text>
+    </g>
+  </g>
+
+  <!-- Right-side decorative geometric stack -->
+  <g transform="translate(870, 90)" opacity="0.9">
+    <!-- Outer ring -->
+    <circle cx="120" cy="80" r="100" stroke="#7C3AED" stroke-width="1" fill="none" opacity="0.35"/>
+    <circle cx="120" cy="80" r="76"  stroke="#00F0FF" stroke-width="1" fill="none" opacity="0.45"/>
+    <circle cx="120" cy="80" r="50"  stroke="#F59E0B" stroke-width="1" fill="none" opacity="0.6" stroke-dasharray="3 4"/>
+
+    <!-- Rotating tick marks -->
+    <g stroke="#A78BFA" stroke-width="1.5" fill="none" opacity="0.7">
+      <line x1="120" y1="-22"  x2="120" y2="-10"/>
+      <line x1="120" y1="170"  x2="120" y2="182"/>
+      <line x1="22"  y1="80"   x2="34"  y2="80"/>
+      <line x1="206" y1="80"   x2="218" y2="80"/>
+    </g>
+
+    <!-- Inner glyph: stylized A/I monogram -->
+    <g filter="url(#glow)">
+      <path d="M85 110 L120 35 L155 110 M97 92 L143 92" stroke="#A855F7" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <!-- Orbiting dot -->
+    <circle cx="220" cy="80" r="4" fill="#00F0FF" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0 120 80" to="360 120 80" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="-20" r="3" fill="#F59E0B" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0 120 80" to="-360 120 80" dur="22s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Decorative data ticker bar bottom -->
+  <g transform="translate(0,330)" opacity="0.5">
+    <line x1="0" y1="0" x2="1200" y2="0" stroke="#7C3AED" stroke-width="0.5"/>
+  </g>
+
+  <!-- Bottom-right meta -->
+  <text x="1176" y="304"
+        font-family="'JetBrains Mono', monospace"
+        font-size="11"
+        fill="#64748B"
+        opacity="0.8"
+        letter-spacing="1.5"
+        text-anchor="end">github.com/LingyiChen-AI</text>
+</svg>
