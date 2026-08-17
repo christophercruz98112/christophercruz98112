@@ -6,7 +6,7 @@
         fill="#0f1623" stroke="#1a2332" stroke-width="1"/>
 
   <!-- Left: Language Telemetry -->
-  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">HACKER STACK</text>
+  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">HACKER && MOBILE STACK</text>
 
   <!-- Vertical divider -->
   <line x1="425" y1="25" x2="425" y2="236" stroke="#1a2332" stroke-width="1" opacity="0.4"/>
