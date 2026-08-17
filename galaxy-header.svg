@@ -288,8 +288,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
     <line x1="464.1" y1="86.5" x2="473.1" y2="70.9" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="473.1" y="73.9" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Scanning</text>
-    <text x="473.1" y="73.9" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Scanning</text>
+    <text x="473.1" y="73.9" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">CyberSecurity</text>
+    <text x="473.1" y="73.9" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">CyberSecurity</text>
     <circle cx="372.0" cy="136.2" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
