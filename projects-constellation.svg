@@ -133,7 +133,7 @@
     <polyline points="5,199 5,215 21,215" fill="none" stroke="#64748b" stroke-width="1.5"/>
     <polyline points="829,215 845,215 845,199" fill="none" stroke="#64748b" stroke-width="1.5"/>
   </g>
-  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">FEATURED SYSTEMS</text>
+  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">FEATURED TOOLS</text>
   <circle cx="218" cy="34" r="3" fill="#00d4ff" opacity="0.8"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
   <text x="820" y="38" fill="#64748b" font-size="10" font-family="monospace" text-anchor="end" opacity="0.5">SYS 3/3 ONLINE</text>
 
@@ -149,11 +149,11 @@
     <circle cx="152.5" cy="85" r="8" fill="#00d4ff" opacity="0.15" filter="url(#proj-glow-0)"/>
     <circle cx="152.5" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
     <circle cx="152.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">adornetejr</text>
-    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Interactive galaxy-themed GitHub</text>
-    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">profile with animated SVGs and</text>
+    <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Kali Linux</text>
+    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Penetration testing distribution</text>
+    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">for security professionals.</text>
     <rect x="57.0" y="163" width="191" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
-    <text x="152.5" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Platform &amp; Infrastructure</text>
+    <text x="152.5" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Offensive &amp; Security</text>
   </g>
   <g opacity="0" style="animation: card-appear 0.6s ease 0.3s forwards">
     <rect x="305.0" y="55" width="240" height="140" rx="8" ry="8" fill="url(#card-bg-1)" stroke="#1a2332" stroke-width="1"/>
@@ -166,11 +166,11 @@
     <circle cx="425.0" cy="85" r="8" fill="#00d4ff" opacity="0.15" filter="url(#proj-glow-1)"/>
     <circle cx="425.0" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="425.0" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">terraform-aws-eks</text>
-    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Production-ready Terraform</text>
-    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">modules for deploying Amazon EKS</text>
+    <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Burp Suite</text>
+    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Web vulnerability scanner</text>
+    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">and proxy toolkit.</text>
     <rect x="329.5" y="163" width="191" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
-    <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Platform &amp; Infrastructure</text>
+    <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Web &amp; Security</text>
   </g>
   <g opacity="0" style="animation: card-appear 0.6s ease 0.6s forwards">
     <rect x="577.5" y="55" width="240" height="140" rx="8" ry="8" fill="url(#card-bg-2)" stroke="#1a2332" stroke-width="1"/>
@@ -183,11 +183,11 @@
     <circle cx="697.5" cy="85" r="8" fill="#a78bfa" opacity="0.15" filter="url(#proj-glow-2)"/>
     <circle cx="697.5" cy="85" r="5" fill="#a78bfa" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
     <circle cx="697.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="697.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">devops-toolkit</text>
-    <text x="697.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Curated collection of DevSecOps</text>
-    <text x="697.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">tools, scripts, and best</text>
+    <text x="697.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">Metasploit Framework</text>
+    <text x="697.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Exploitation framework for</text>
+    <text x="697.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">developing and executing exploits.</text>
     <rect x="630.0" y="163" width="135" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
-    <text x="697.5" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Cloud &amp; DevSecOps</text>
+    <text x="697.5" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Exploitation</text>
   </g>
 
   <!-- Global scan line -->
