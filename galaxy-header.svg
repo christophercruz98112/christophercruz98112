@@ -331,7 +331,7 @@
     </circle>
     <line x1="541.3" y1="173.1" x2="559.1" y2="175.9" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
     <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Defense Evasion</text>
-    <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Python</text>
+    <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Defense Evasion</text>
     <circle cx="475.7" cy="199.3" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
@@ -343,7 +343,7 @@
     </circle>
     <line x1="325.1" y1="206.8" x2="309.1" y2="215.1" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
     <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Privilege Escalation</text>
-    <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Microservices</text>
+    <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Privilege Escalation</text>
     <circle cx="171.4" cy="180.6" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
