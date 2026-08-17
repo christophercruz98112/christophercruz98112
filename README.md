@@ -13,13 +13,13 @@
 <br/>
 
 <div align="center">
-  <img src="./tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="./stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./stats-card.svg" width="850" alt="Mission Telemetry"/>
+  <img src="./tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 <br/>
