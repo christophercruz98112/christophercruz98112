@@ -294,8 +294,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <line x1="372.0" y1="136.2" x2="355.1" y2="130.2" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="355.1" y="133.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">AI/ML</text>
-    <text x="355.1" y="133.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">AI/ML</text>
+    <text x="355.1" y="133.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">REST APIS</text>
+    <text x="355.1" y="133.2" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">REST APIS</text>
     <circle cx="440.7" cy="120.6" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
